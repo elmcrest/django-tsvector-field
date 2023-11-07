@@ -14,7 +14,7 @@ long_description = '\n\n'.join((
 
 setup(
     name='django-tsvector-field',
-    version='0.9.5',
+    version='0.10.0',
     url='https://github.com/damoti/django-tsvector-field',
     license='BSD',
     description='Django field implementation for PostgreSQL tsvector.',
